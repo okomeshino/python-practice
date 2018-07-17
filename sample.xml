@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmark>
+    <site>
+        <name>google</name>
+        <url><div class="blog-card external-blog-card blog-card-thumbnail-left cf"><div class="blog-card-thumbnail"><a href="http://www.google.co.jp/" class="blog-card-thumbnail-link" target="_blank"><img src="https://www.python-izm.com/wp-content/uploads/simplicity-cache/aa3186c30a85b7dc827ea8fcd1efd880.gif" alt="" class="blog-card-thumb-image" height="100" width="100" sizes="(max-width: 100px) 100vw, 100px"></a></div><div class="blog-card-content"><div class="blog-card-title"><a href="http://www.google.co.jp/" class="blog-card-title-link" target="_blank">Google</a></div><div class="blog-card-excerpt">Doodle 初の仮想現実（VR）360° 動画で、時代に先駆けた奇術師であり映画監督でもあったジョルジュ・メリエスの人生と芸術的才能を称えましょう。#GoogleDoodle! #BacktotheMoon</div></div><div class="blog-card-footer"><div class="blog-card-site"><span class="blog-card-favicon"><img src="//www.google.com/s2/favicons?domain=www.google.com" class="blog-card-favicon-img" alt="" width="16" height="16"></span>www.google.com</div><div class="blog-card-hatebu"><a href="//b.hatena.ne.jp/entry/http://www.google.co.jp/" target="_blank" rel="nofollow"><img src="//b.hatena.ne.jp/entry/image/http://www.google.co.jp/" alt=""></a></div></div></div></url>
+    </site>
+    <site>
+        <name>yahoo</name>
+        <url><div class="blog-card external-blog-card blog-card-thumbnail-left cf"><div class="blog-card-thumbnail"><a href="http://www.yahoo.co.jp/" class="blog-card-thumbnail-link" target="_blank"><img src="https://www.python-izm.com/wp-content/uploads/simplicity-cache/14c36b9c9b9258f96412dbaa6434ff07.png" alt="" class="blog-card-thumb-image" height="100" width="100" sizes="(max-width: 100px) 100vw, 100px"></a></div><div class="blog-card-content"><div class="blog-card-title"><a href="http://www.yahoo.co.jp/" class="blog-card-title-link" target="_blank">Yahoo! JAPAN</a></div><div class="blog-card-excerpt">日本最大級のポータルサイト。検索、オークション、ニュース、天気、スポーツ、メール、ショッピングなど多数のサービスを展開。あなたの生活をより豊かにする「課題解決エンジン」を目指していきます。</div></div><div class="blog-card-footer"><div class="blog-card-site"><span class="blog-card-favicon"><img src="//www.google.com/s2/favicons?domain=www.yahoo.co.jp" class="blog-card-favicon-img" alt="" width="16" height="16"></span>www.yahoo.co.jp</div><div class="blog-card-hatebu"><a href="//b.hatena.ne.jp/entry/http://www.yahoo.co.jp/" target="_blank" rel="nofollow"><img src="//b.hatena.ne.jp/entry/image/http://www.yahoo.co.jp/" alt=""></a></div></div></div></url>
+    </site>
+    <site>
+        <name>python</name>
+        <url>http://www.python-izm.com/</url>
+    </site>
+</bookmark>
